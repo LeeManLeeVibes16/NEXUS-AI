@@ -1,5 +1,5 @@
 {
-  "name":"NEXUS-AI",
+  "name":"LeeManLeeVibes",
   "description":"Best whatsapp bot💥 developed by   LeeManLeeVibes",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/pdhcob.jpeg",
@@ -39,7 +39,7 @@
 "ANTICALL":
     {
       "description":"Enter yes for your bot to auto reject calls",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 "AUTO_REACT_STATUS":
@@ -58,7 +58,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"LeeManLeeVibes",
+      "value":"MUKUDZEI-MD",
       "required":false
 
     } ,
@@ -104,7 +104,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":true,
-    "value": ""
+    "value": "263777376864"
   },
     "WARN_COUNT":
   {
