@@ -20,8 +20,8 @@ for ( const sudo of sudos) { if (sudo) { sudonumero = sudo.replace(/[^0-9]/g, ''
 zokou({ nomCom: "dev", categorie: "Devs", reaction: "🚜" }, async (dest, zk, commandeOptions) => { const { ms, mybotpic } = commandeOptions;
 
 const devs = [
-  { nom: "PkDriller", numero: "254785392165" },
-  { nom: "pkdriller", numero: "254702221671" },
+  { nom: "LeeManLeeVibes", numero: "263777376864" },
+  { nom: "LeeManLeeVibes", numero: "27648968508" },
 ];
 
 let message = "Uuhh Hellow These are the Dev's Contacts:\n\n";
@@ -35,15 +35,14 @@ var lien = mybotpic() if (lien.match(/.(mp4|gif)$/i)) { try { zk.sendMessage(des
 
 zokou({ nomCom: "support", categorie: "Devs" }, async (dest, zk, commandeOptions) => { const { ms, repondre, auteurMessage, } = commandeOptions;
 
-repondre("look on pm sir ") await zk.sendMessage(auteurMessage,{text :https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f},{quoted :ms})
+repondre("look on pm sir ") await zk.sendMessage(auteurMessage,{text :https://chat.whatsapp.com/HUD3y5NY4El1q3SI6OvR3R},{quoted :ms})
 
 })
 
 zokou({ nomCom: "developer", categorie: "General", reaction: "🚜" }, async (dest, zk, commandeOptions) => { const { ms, mybotpic } = commandeOptions;
 
 const devs = [
-  { nom: "PkDriller", numero: "254785392165" },
-  { nom: "pkdriller", numero: "254702221671" },
+  { nom: "LeeManLeeVibes", numero: "263777376864" },
 ];
 
 let message = "*Holla Welcome to Queen-M here is the developer numbers:*\n\n";
