@@ -40,7 +40,7 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363288304618280@newsletter',
-              newsletterName: 'NEXUS-AI',
+              newsletterName: 'MUKUDZEI-MD,
               serverMessageId: 143},
         externalAdReply: {
           
@@ -55,7 +55,7 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
     }, { quoted: ms });
 
     await zk.sendMessage(dest, {
-        text: "```ping tested 🧟🎭made by Pkdriller✓```"
+        text: "```ping tested 🧟🎭made by LeeManLeeVibes ✓```"
     } ,{ quoted: ms });// Voice note form
     }catch (e) {
         console.log("❌ Ping Command Error: " + e);
